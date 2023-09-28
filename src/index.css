@@ -55,4 +55,9 @@
     .info-text {
         @apply font-montserrat text-slate-gray text-lg leading-7;
     }
+
+    .hero-container {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
 }
